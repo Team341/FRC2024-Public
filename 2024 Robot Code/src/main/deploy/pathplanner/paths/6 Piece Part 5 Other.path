@@ -1,0 +1,65 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 8.048067606106722,
+        "y": 5.765218140122891
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 8.05781736432358,
+        "y": 5.7847176565566025
+      },
+      "isLocked": false,
+      "linkedName": "6 Piece Part 4 Other"
+    },
+    {
+      "anchor": {
+        "x": 5.81,
+        "y": 6.69
+      },
+      "prevControl": {
+        "x": 7.007287860729568,
+        "y": 6.700750495518085
+      },
+      "nextControl": {
+        "x": 4.500401864356179,
+        "y": 6.678241066038077
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 3.15,
+        "y": 5.79
+      },
+      "prevControl": {
+        "x": 3.544618771288824,
+        "y": 5.928936302317049
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 540.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": null,
+  "useDefaultConstraints": true
+}

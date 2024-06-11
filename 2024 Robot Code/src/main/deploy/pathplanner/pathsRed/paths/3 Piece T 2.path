@@ -1,0 +1,49 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 8.38719808493748,
+        "y": 8.349626271902117
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 8.387198084943073,
+        "y": 8.337932117454118
+      },
+      "isLocked": false,
+      "linkedName": "3 Piece T 1"
+    },
+    {
+      "anchor": {
+        "x": 5.346717929908513,
+        "y": 6.700750495519119
+      },
+      "prevControl": {
+        "x": 5.381800393235831,
+        "y": 6.689056341076679
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "3 Piece T 2"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 540.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 19.983106522022787,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "3 Piece Top",
+  "previewStartingState": null,
+  "useDefaultConstraints": true
+}

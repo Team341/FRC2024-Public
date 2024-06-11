@@ -1,0 +1,58 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.5167325548326307,
+        "y": 4.291754680375458
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 3.3353233658034265,
+        "y": 5.636582441256052
+      },
+      "isLocked": false,
+      "linkedName": "6Piece2"
+    },
+    {
+      "anchor": {
+        "x": 2.481650091505311,
+        "y": 6.993104356579084
+      },
+      "prevControl": {
+        "x": 1.4174820372432768,
+        "y": 6.899551121039566
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "6 Piece Slide Part 2 End"
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 0.1,
+      "rotationDegrees": 60.0,
+      "rotateFast": false
+    }
+  ],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 540.0
+  },
+  "goalEndState": {
+    "velocity": 4.5,
+    "rotation": 27.41,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
